@@ -3,10 +3,8 @@ Date: 2020-12-23 10:26
 Slug: about-me
 Summary: Saya Ahmad Ma'ruf, Mahasiswa Teknik informatika di salah satu perguruan tinggi swasta di Jawa Tengah. Ini tentang Saya...
 
-# Tentang Saya
 
-Saya  Ahmad Ma’ruf, biasa dipanggil Ma’ruf _(awas, ada tanda apostrofnya)_. Cukup konservatif perihal penulisan nama. Tidak suka jika namanya ditulis _Makruf_, _Maruf_, apalagi _Makrup_. Pernah kebingungan menuliskan nama pada lembar jawab Ujian Nasional (untung saja, mengalami UN pakai kertas cuma pas SD).  
-
+Saya  Ahmad Ma’ruf, biasa dipanggil Ma’ruf. Lahir di Wonosobo, tahun 2002. Senang mempelajari hal baru, serta senang berbagi pengalaman dengan orang lain.
 
 ---  
 
@@ -24,14 +22,11 @@ Tertarik untuk berkolaborasi?, silahkan email saya di [ahmadmaruf2701@gmai.com](
 
 **Sosial Media:**  
 
-Twitter : [@ahmaruff](https://twitter.com/ahmaruff)
-Instagram : [@ahmaruff](https://www.instagram.com/ahmaruff)
+Twitter : [@ahmaruff](https://twitter.com/ahmaruff)  
+Instagram : [@ahmaruff](https://www.instagram.com/ahmaruff)  
 github : [@ahmaruff](https://github.com/ahmaruff)  
 
 
 ---  
 
 
-## Tentang Blog Ini  
-
-Blog ini saya buat sebagai tempat saya berbagi. topiknya random tergantung apa yang ada di pikiran. Ditujukan sebagai arsip, sebagai catatan di masa depan.  
